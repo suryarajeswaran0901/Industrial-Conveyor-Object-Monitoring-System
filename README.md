@@ -88,6 +88,4 @@ target_val[3:0] ----------------------------------------> [ Comparator ] --> mot
 
 Surya
 
-## License
 
-This project is open source. Add your preferred license (for example, MIT) here.
